@@ -6,6 +6,4 @@
 
 小Tips：自己做了一个小小的产品，感兴趣的朋友可以下载看看😃
 
-![image](http://ww1.sinaimg.cn/large/006RONLHgy1gmd4y6cq18j30b40b4dgj.jpg)
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
-
+https://apps.apple.com/cn/app/%E7%83%AD%E6%A6%9C-%E4%B8%80%E6%89%8B%E6%8E%8C%E6%8F%A1%E4%B8%96%E7%95%8C%E7%84%A6%E7%82%B9/id1537761074
